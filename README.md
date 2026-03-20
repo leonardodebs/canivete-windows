@@ -2,7 +2,6 @@
 
 O **Canivete Suiço para Windows** é uma ferramenta desktop profissional desenvolvida em Python para administradores de sistemas e suporte técnico de TI. Ele centraliza as tarefas mais comuns de troubleshooting em uma interface intuitiva e performática.
 
-![Screenshot da Ferramenta](https://via.placeholder.com/800x450.png?text=Canivete+Suiço+para+Windows) *(Substitua por um print real se desejar)*
 
 ## 🚀 Funcionalidades Principais
 
