@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.tox/
+vcs.xml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PyInstaller
+*.spec
+
+# Logs
+*.log
+Rede_Log_*.txt
